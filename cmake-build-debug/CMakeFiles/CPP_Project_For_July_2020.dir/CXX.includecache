@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Filene/Documents/GitHub/CPP-Project-For-July-2020/main.cpp
+iostream
+C:/Users/Filene/Documents/GitHub/CPP-Project-For-July-2020/iostream
+
